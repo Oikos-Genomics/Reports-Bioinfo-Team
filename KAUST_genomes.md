@@ -1,6 +1,6 @@
 # Genome Assembly/Annotation for Red Sea species generated using Oxford Nanopore Technology longreads
 
-**Last update:** 31 August 2026  
+**Last update:** 10 September 2026  
 **Analysis and report:** Luiz Cauz dos Santos 
 
 ## Table of Contents
